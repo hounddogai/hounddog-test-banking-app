@@ -61,3 +61,7 @@ build/
 # Direnv
 ../../.envrc
 .direnv/
+
+# HoundDog
+hounddog-*.*
+*.db
